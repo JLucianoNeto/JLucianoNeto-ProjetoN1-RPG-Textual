@@ -314,7 +314,7 @@ int mov_salas(){
         */
 
 		if (matriz[pos_atual][5] == 1){
-            batalha(5, 50);
+            batalha(5, 80);
             if (batalha_on == 0)
             {
                 matriz[pos_atual][5] = 0;
@@ -648,7 +648,7 @@ case 18:
     printf("Ela corta o ar e dele começa a surgir uma lamina completamente escura que ela agarra e parte em sua direção.\n"); 
     printf("Não existe mais volta, morrendo aqui niguém ouvirá seu último suspiro .\n");
     delay(10);
-    batalha_boss(10,150);
+    batalha_boss(10,200);
 default:
     break;
 }
