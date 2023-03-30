@@ -536,7 +536,7 @@ void desc_salas(int id_sala)
         break;
 
     case 2:
-        printf("Ainda envolto pela penumbra, você começa a olhar com mais atencção ao redor da sala.\n");
+        printf("Ainda envolto pela penumbra, você começa a olhar com mais atenção ao redor da sala.\n");
         printf("Você percebe que há alguns objetos espalhados pelo chão, como pedaços de madeira, restos de tecidos e ossos. Alguns deles cobertos de mofo e parecem estar ali a muito tempo.\n");
         break;
 
